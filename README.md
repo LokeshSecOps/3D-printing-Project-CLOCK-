@@ -44,7 +44,7 @@ The system measures **heart rate, SpO₂, body temperature, and environmental co
 ---
 
 ## ⚡ Circuit Diagram
-*(Add your circuit diagram image here, e.g. `/images/circuit.png`)*
+<img width="513" height="779" alt="Screenshot 2025-12-27 at 10 36 43 PM" src="https://github.com/user-attachments/assets/e1c08438-b64e-4990-ad2d-89bc068a0cc8" />
 
 ---
 
