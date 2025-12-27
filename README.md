@@ -32,6 +32,8 @@ This project is a 3D-printed clock powered by an Arduino Nano and a stepper moto
 
 ## 📱 Photos
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/148eb86c-15dd-46dc-a836-20aaf75c17df" />
+<img width="604" height="947" alt="Screenshot 2025-12-27 at 11 02 24 PM" src="https://github.com/user-attachments/assets/6da19d42-e4b8-4c8f-aac0-9104ff5db5ce" />
+
 
 ---
 
