@@ -48,8 +48,8 @@ The system measures **heart rate, SpO₂, body temperature, and environmental co
 
 ---
 
-## 📱 Screenshots
-*(Add screenshots of your Blynk dashboard here)*
+## 📱 Screenshots(Live Results)
+<img width="1224" height="1616" alt="image" src="https://github.com/user-attachments/assets/e0c0431e-5cde-4691-9335-231165c80658" />
 
 ---
 
@@ -70,8 +70,12 @@ While not a substitute for clinical-grade equipment, it offers significant poten
 - Integration with additional medical sensors
 
 ---
+## 📚 References
+- ESP32 Official Documentation  
+- Blynk IoT Platform  
+- MAX30100 Sensor Datasheet  
+- DHT11 Sensor Guide  
+- DS18B20 Sensor Datasheet  
+- Special thanks to **The Wrench** YouTube channel for their helpful video: [IoT Health Monitoring Project](https://youtu.be/jvoOgxK4EvI?si=ZfNyhO57otP4yi9j)
 
-## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+
