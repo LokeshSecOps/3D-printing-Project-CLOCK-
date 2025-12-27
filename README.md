@@ -70,12 +70,16 @@ While not a substitute for clinical-grade equipment, it offers significant poten
 - Integration with additional medical sensors
 
 ---
-## 📚 References
-- ESP32 Official Documentation  
-- Blynk IoT Platform  
-- MAX30100 Sensor Datasheet  
-- DHT11 Sensor Guide  
-- DS18B20 Sensor Datasheet  
-- Special thanks to **The Wrench** YouTube channel for their helpful video: [IoT Health Monitoring Project](https://youtu.be/jvoOgxK4EvI?si=ZfNyhO57otP4yi9j)
+
+- ## 📚 References
+- ESP32 Official Documentation: https://docs.espressif.com/projects/esp-idf/en/latest/esp32/
+- Blynk IoT Platform: https://blynk.io
+- MAX30100 Sensor Datasheet
+- DHT11 Sensor Guide
+- DS18B20 Sensor Datasheet
+- Special thanks to **The Wrench** YouTube channel for their helpful tutorial video that inspired this project: [IoT Health Monitoring Project](https://youtu.be/jvoOgxK4EvI?si=ZfNyhO57otP4yi9j)
+
+> Note: This project is created for **educational and personal learning purposes**. The code and approach were adapted from publicly available resources. No commercial use is intended.
+
 
 
