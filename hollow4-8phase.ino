@@ -16,7 +16,7 @@ int port[4] = {5, 4, 3, 2};
 
 // sequence of stepper motor control
 int seq[8][4] = {
-  {  LOW, HIGH, HIGH,  LOW},
+  {  LOW, HIGH, HIGH,  LOW}, 
   {  LOW,  LOW, HIGH,  LOW},
   {  LOW,  LOW, HIGH, HIGH},
   {  LOW,  LOW,  LOW, HIGH},
