@@ -41,7 +41,7 @@ This project is a 3D-printed clock powered by an Arduino Nano and a stepper moto
 - Arduino Nano Documentation  
 - Stepper Motor Basics  
 - 3D Printing Basics  
-- Special thanks to **The Wrench** YouTube channel for their helpful tutorial video that inspired this project: [3D Clock Tutorial](https://youtu.be/jvoOgxK4EvI?si=ZfNyhO57otP4yi9j)  
+- Special thanks to **The Wrench** YouTube channel for their helpful tutorial video that inspired this project: [3D Clock Tutorial](https://youtu.be/jvoOgxK4EvI?si=ZfNyhO57otP4yi9j) 
 
 > Note: This project is created for educational and personal learning purposes. The design and code were adapted from publicly available resources. No commercial use is intended.
 
