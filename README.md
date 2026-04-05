@@ -12,7 +12,7 @@ This project is a 3D-printed clock powered by an Arduino Nano and a stepper moto
 - Showcase integration of mechanical design with embedded systems.
 
 ---
-
+ 
 ## 🛠️ Hardware Components
 - Arduino Nano  
 - Stepper Motor (28BYJ-48 or similar)  
